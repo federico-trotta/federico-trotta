@@ -1,4 +1,14 @@
-### Hi there 👋
+# 👋 Hi, I'm Federico Trotta 
+
+I'm a Data Scientist who loves wrintig code and sharing knowledge, writing articles.
+
+# Let's connect togheter
+
+- [LINKEDIN](https://www.linkedin.com/in/federico-trotta/)
+
+- [MEDIUM](https://medium.com/@federicotrotta)
+
+
 
 <!--
 **federico-trotta/federico-trotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
