@@ -2,27 +2,33 @@
 
 I'm a Data Scientist who loves wrintig code and sharing knowledge, writing articles.
 
-As an engineer, I've always loved data and graphs, but when I discovered Data Science it was love at first sight.
-Data Science gives me the opportunity to apply mathematics - one of the disciplines I love most - to real business cases, helping companies to grow and improve.
+As an Engineer, I've always loved data and graphs, but when I discovered Data Science it was love at first sight.
+Data Science gives me the opportunity to apply mathematics - one of the disciplines I love the most - to real business cases, helping companies to grow and improve.
 
-I'm currently working in manufacturing and, in the last year, I have helped my company to get results from data.
+I'm currently working in Manufacturing and I have helped my company to get results from data.
 Now, I would like to work in the Technological and Digital world, as a Data Scientist.
 
+# Some projects I made
 🔭
-On my [GitHUb](https://github.com/federico-trotta) you can see my projects, so that you can understand my expertise in Data Science, Machine Learning and Python
-Also, if you want to read my contents, you may find interesting my [MEDIUM](https://medium.com/@federicotrotta) profile. I've written a lot of technical articles as well as informative articles with tips and trick on code and Data Science.
+On my [GitHub](https://github.com/federico-trotta) you can see my projects, so that you can understand my expertise in Data Science, Machine Learning and Python, but let me show you some project I'm particulaty proud of:
 
+- [here](https://github.com/federico-trotta/wine_marketplace_strategy) I made a data-driven strategy for a wine marketplace. Analyzing data I was able to help an hypotetical customer to buy a certain number of bottle of wine, spending a certain amount of money.
+
+- [here](https://github.com/federico-trotta/Predicting_fetal_diseases_with_ML) you find an analysis I made on a fetal dataset using Machine Learning to predict fetal deseases. 
+
+# Curious about my writings? Check them out!
+As said before, I really love to share my learnings and to help people undestrand Data Science ad AI concepts;  if you want to read my contents, you may find interesting my [MEDIUM](https://medium.com/@federicotrotta) profile. I've written a lot of technical articles as well as informative ones with tips and trick on code and Data Science.
 
 # Let's connect togheter
 👯 I'd really love to get in contact with you; you can find me here:
-- on [LINKEDIN](https://www.linkedin.com/in/federico-trotta/)
+- [LINKEDIN](https://www.linkedin.com/in/federico-trotta/)
 
-- on [MEDIUM](https://medium.com/@federicotrotta)
+- [MEDIUM](https://medium.com/@federicotrotta)
 
-- on [TWITTER](https://twitter.com/F_Trotta90)
+- [TWITTER](https://twitter.com/F_Trotta90)
 
 
-Also, would you like to write me an e-mail? Yuo can contact me at: federicotrotta2@mail.com
+Also, would you like to write me an e-mail? You can contact me at: federicotrotta2@mail.com
 
 <!--
 **federico-trotta/federico-trotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
