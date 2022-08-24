@@ -16,8 +16,10 @@ On my [GitHub](https://github.com/federico-trotta) you can see my projects, so t
 
 - [here](https://github.com/federico-trotta/Predicting_fetal_diseases_with_ML) you find an analysis I made on a fetal dataset using Machine Learning to predict fetal deseases. 
 
-# Curious about my writings? Check them out!
+# My writings activity
 As said before, I really love to share my learnings and to help people undestrand Data Science ad AI concepts;  if you want to read my contents, you may find interesting my [MEDIUM](https://medium.com/@federicotrotta) profile. I've written a lot of technical articles as well as informative ones with tips and trick on code and Data Science.
+
+If you don't know where to start, you can start reading from [here](https://github.com/federico-trotta/technical_articles) where you find a kind of summary of my best articles.
 
 # Let's connect togheter
 👯 I'd really love to get in contact with you; you can find me here:
