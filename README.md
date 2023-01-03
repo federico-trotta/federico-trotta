@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Federico Trotta 
 
-I'm a Data Scientist who loves wrintig code and sharing knowledge, writing articles.
+I'm a Technical Writer who loves wrintig code and sharing knowledge, writing articles.
 
 As an Engineer, I've always loved data and graphs, but when I discovered Data Science it was love at first sight.
 Data Science gives me the opportunity to apply mathematics - one of the disciplines I love the most - to real business cases, helping companies to grow and improve.
