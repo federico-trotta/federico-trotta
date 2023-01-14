@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Federico Trotta 
+<h1 align='left'>Hi <img src="img_n_gifs/Wave.gif" height='40px' width='40px'>, I'm Federico Trotta<br><br></h1>
 
 I'm a Technical Writer who loves wrintig code and sharing knowledge, writing articles.
 
