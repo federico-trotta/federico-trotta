@@ -16,7 +16,7 @@ I started my career writing about Python and Machine Learning.
 
 Today, while I still write about these topics, I also love to work with product and API documentation.
 
-In [my portfolio]([https://app.gitbook.com/o/mCNkbWzbgdKCodE4JSjx/s/lyy8y7VEsW9GmdQ1fsox/](https://federico-trotta.gitbook.io/federico-trottas-portfolio/my-portfolio/api-documentation/coingecko-api-getting-crypto-values)), you'll see all my expertise as a Technical Writer.
+In [my portfolio]([https://app.gitbook.com/o/mCNkbWzbgdKCodE4JSjx/s/lyy8y7VEsW9GmdQ1fsox/](https://federico-trotta.gitbook.io/federico-trottas-portfolio/my-portfolio/api-documentation/coingecko-api-getting-crypto-values), you'll see all my expertise as a Technical Writer.
 
 # Let's connect together
 👯 I'd really love to get in contact with you.
