@@ -16,7 +16,7 @@ I started my career writing about Python and Machine Learning.
 
 Today, while I still write about these topics, I also love to work with product and API documentation.
 
-In [my portfolio](https://federico-trotta.gitbook.io/federico-trottas-portfolio/), you'll see all my expertise as a Technical Writer.
+In [my portfolio]([https://federico-trotta.gitbook.io/federico-trottas-portfolio/](https://federico-trotta.github.io/)), you'll see all my expertise as a Technical Writer.
 
 # Let's connect together
 👯 I'd really love to get in contact with you.
